@@ -1,0 +1,11 @@
+.SearchBox{
+    text-align: center;
+    width: 100vw;
+    padding: 1px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-content: space-around;
+
+   
+  }
